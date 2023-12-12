@@ -8,6 +8,7 @@ Your task is simple; Create and format an HTML document about a traditional fili
  1. Setup the index.html file included with the basic HTML document structure. 
  2. Copy the text from the buchi-recipe.txt file into the body of the index.html file. 
  3. Format the recipe so that it uses the right elements for the correct parts of the document. 
+    - NOTE: I have included some buchi images in the image folder. If you want to use them, feel free to do so. There is a favicon as well as a bigger version of the buchi image. 
 
 Note: You can make the content of your index.html file whatever you want it to be about. Just make sure that you use the right elements for the correct parts of the document. 
 
