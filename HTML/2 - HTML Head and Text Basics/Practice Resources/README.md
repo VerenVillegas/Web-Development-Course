@@ -2,7 +2,7 @@
 
 In today's video, you learnt the basics about the HTML head as well as the fundamental text elements needed to create and format an HTML document. Let's put your skills and knowledge to the test!
 
-##Your task:
+## Your task:
 Your task is simple; Create and format an HTML document about a traditional filipino delicacy, Buchi. 
 
  1. Setup the index.html file included with the basic HTML - document structure. 
